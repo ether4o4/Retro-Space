@@ -1,0 +1,1 @@
+Temporary CI trigger marker. The Android build workflow should compile app/build/outputs/apk/debug/app-debug.apk and upload it as retro-space-debug-apk.
